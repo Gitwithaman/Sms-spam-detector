@@ -1,7 +1,3 @@
 streamlit
 nltk
 sklearn
-matplotlib
-wordcloud
-pandas
-py
